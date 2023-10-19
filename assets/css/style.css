@@ -408,20 +408,9 @@ section {
   color: #050d18;
 }
 
-.skills .progress .skill .val {
-  float: right;
-  font-style: normal;
-}
-
-.skills .progress-bar-wrap {
-  background: #dce8f8;
-}
-
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: .9s;
-  background-color: #0073aa;
+.skill-item {
+  font-size: 25px;
+  font-family: Poppins;
 }
 
 /*--------------------------------------------------------------
